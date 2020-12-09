@@ -8,14 +8,18 @@
 html {
      font-family: "Montserrat", sans-serif;
      color: white;
+     font-size: 15px;
 }
+
+body {
+     width: 1440px;
+     margin: 0 auto;
+   }
 
 .price-tables {
      display: flex;
      justify-content: center;
      align-items: center;
-     margin: auto;
-     height: 1000px;
-     width: 1440px;
+     height: 100vh;
      background-color: #141B1C;
 }
