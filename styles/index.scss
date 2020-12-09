@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import 'price-card.scss';
+
+* {
+     box-sizing: border-box;
+}
+
+html {
+     font-family: "Montserrat", sans-serif;
+     color: white;
+}
+
+.price-tables {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: auto;
+     height: 1000px;
+     width: 1440px;
+     background-color: #141B1C;
+}
