@@ -5,7 +5,6 @@
   width: 380px;
   margin-right: 18px;
   background-color: #334247;
-  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.087466);
   overflow: hidden;
 }
 .price-card:last-child {
@@ -147,6 +146,7 @@ html {
 body {
   width: 1440px;
   margin: 0 auto;
+  height: 1000px;
 }
 
 .price-tables {
@@ -155,6 +155,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #141B1C;
+  padding: 115px 132px;
 }
 
 /*# sourceMappingURL=styles.css.map */
